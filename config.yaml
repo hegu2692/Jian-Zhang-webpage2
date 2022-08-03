@@ -1,0 +1,5 @@
+baseURL: https://jian-zhang.netlify.app
+languageCode: en-us
+title: jian-zhang
+check_netlify()
+check_hugo()
